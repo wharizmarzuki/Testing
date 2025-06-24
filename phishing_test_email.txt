@@ -1,0 +1,18 @@
+From: Microsoft Security <security@microsoft.com>
+Subject: Action Required: Your Account Needs Attention
+
+Dear User,
+
+Your attention is urgently needed regarding unusual activity detected on your Microsoft account.
+
+For your security, please log in immediately to review and secure your account by following the link below:
+
+https://login.microsoftonline.com/
+
+Failure to address this promptly may result in temporary suspension of your account services.
+
+Thank you,
+
+The Microsoft Security Team
+
+This is an automated message, please do not reply.
